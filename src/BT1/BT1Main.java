@@ -10,9 +10,9 @@ package BT1;
  * @author MSI
  */
 public class BT1Main {
-    public static void main(String[] args)
-    {
-        NhanVien nv1 = new NhanVien("Nguyễn Hữu Nhật", 21, "Nguyễn Đình Chiểu", 1000000, 300);
-        System.out.println(nv1.getThongTin());
-    }
+//    public static void main(String[] args)
+//    {
+//        NhanVien nv1 = new NhanVien("Nguyễn Hữu Nhật", 21, "Nguyễn Đình Chiểu", 1000000, 300);
+//        System.out.println(nv1.getThongTin());
+//    }
 }
